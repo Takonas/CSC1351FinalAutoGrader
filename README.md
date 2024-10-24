@@ -3,5 +3,5 @@
 
 ## USE CASE
 
-To use this application, place in directory above Final Project Directories. Then, with both files in same directory with each other, execute the following command:
+To use this application, place in directory above Final Project Directories. Then, with both files in same directory with each other, execute the following command:  
 python3 final_directory_grader.py
